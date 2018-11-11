@@ -7,6 +7,6 @@ My Little Test Poem
 - [x] Fill Poem.txt
 - [x] Clone it to my PC
 - [x] Make changes on my PC to the Poem.txt in specific line
-- [ ] Make changes on GitHub to the Poem.txt in same Line
+- [x] Make changes on GitHub to the Poem.txt in same Line
 - [ ] Try to push from PC
 - [ ] Merge Conflicts
